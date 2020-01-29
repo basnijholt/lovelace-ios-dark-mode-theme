@@ -58,8 +58,6 @@ background: var(--background-image)
 ```yaml
 custom_header:
   background: 'rgba(155, 155, 155, 0.25)'
-  swipe_animate: fade
-  swipe_prevent_default: true
   compact_mode: true
   button_text:
     options: '{{ hours24 }}:{{ minutesLZ }}'
