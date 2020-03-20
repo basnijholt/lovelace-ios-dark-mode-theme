@@ -61,6 +61,7 @@ ios-dark-mode:
   # Other
   paper-dialog-background-color: rgba(55, 55, 55, 0.6)
   paper-item-icon-color: white  # also should mini-media-player icon white (but doesn't work by itself)
+  paper-item-icon-active-color: "#F9C536"
   more-info-header-background: rgba(25, 25, 25, 0.5)
   # Custom
   mcg-title-letter-spacing: .15em
