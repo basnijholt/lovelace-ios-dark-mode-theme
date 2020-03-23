@@ -15,7 +15,7 @@ ios-dark-mode:
   primary-text-color: "#FFF"
   secondary-text-color: "#d3d3d3"
   text-primary-color: "#FFF"
-  disabled-text-color: "#232323"  # XXX: https://github.com/basnijholt/lovelace-ios-dark-mode-theme/issues/2
+  disabled-text-color: "#555"  # XXX: https://github.com/basnijholt/lovelace-ios-dark-mode-theme/issues/2
   text-dark-color: "#FFF"
   # Sidebar Menu
   sidebar-icon-color: var(--light-primary-color)
@@ -61,8 +61,7 @@ ios-dark-mode:
   # Other
   paper-dialog-background-color: rgba(55, 55, 55, 0.6)
   paper-item-icon-color: white  # also should mini-media-player icon white (but doesn't work by itself)
-  #paper-item-icon-active-color: "#F9C536"
-  more-info-header-background: rgba(45, 45, 45, 0.5)
+  more-info-header-background: rgba(25, 25, 25, 0.5)
   # Custom
   mcg-title-letter-spacing: .15em
   mini-media-player-base-color: white
