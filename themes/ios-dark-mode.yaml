@@ -73,7 +73,7 @@ ios-dark-mode:
   paper-item-icon-color: white  # also should mini-media-player icon white (but doesn't work by itself)
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)  # see https://github.com/basnijholt/lovelace-ios-dark-mode-theme/issues/42
-  app-header-background-color: rgba(155, 155, 155, 0.25)
+  app-header-background-color: rgba(155, 155, 155, 0.8)
   # Custom
   mcg-title-letter-spacing: .15em
   mini-media-player-base-color: white
