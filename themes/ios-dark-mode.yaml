@@ -68,7 +68,7 @@ ios-dark-mode:
   switch-checked-track-color: "#30d158"  # from Apple systemGreen dark mode
   switch-checked-button-color: "#FFF"
   # Other
-  paper-dialog-background-color: rgba(55, 55, 55, 0.6)
+  paper-dialog-background-color: rgba(55, 55, 55, 0.6)  # e.g., background of more-info
   paper-item-icon-color: white  # also should mini-media-player icon white (but doesn't work by itself)
   more-info-header-background: rgba(25, 25, 25, 0.5)
   lumo-body-text-color: var(--primary-text-color)  # see https://github.com/basnijholt/lovelace-ios-dark-mode-theme/issues/42
