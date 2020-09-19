@@ -56,6 +56,7 @@ ios-dark-mode:
   ha-card-border-radius: 20px
   ha-card-background: rgba(10, 10, 10, 0.4)
   paper-card-background-color: var(--ha-card-background)
+  code-editor-background-color: var(--disabled-text-color)
   # Toggles
   paper-toggle-button-checked-button-color: "#484848"
   paper-toggle-button-checked-bar-color: "#484848"
