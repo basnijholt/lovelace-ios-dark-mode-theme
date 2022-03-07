@@ -84,6 +84,7 @@ ios-dark-mode:
   # TODO: add description for lines below. Suggested in https://github.com/basnijholt/lovelace-ios-dark-mode-theme/issues/72
   mdc-text-field-fill-color: var(--card-background-color)
   mdc-text-field-ink-color: var(--primary-text-color)
+  mdc-text-field-label-ink-color: var(--primary-text-color)
   mdc-select-ink-color: var(--primary-text-color)
   mdc-select-fill-color: var(--card-background-color)
   mdc-select-label-ink-color: var(--primary-text-color)
