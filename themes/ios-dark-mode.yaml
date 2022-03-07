@@ -86,4 +86,5 @@ ios-dark-mode:
   mdc-text-field-ink-color: var(--primary-text-color)
   mdc-select-ink-color: var(--primary-text-color)
   mdc-select-fill-color: var(--card-background-color)
+  mdc-select-label-ink-color: var(--primary-text-color)
 
